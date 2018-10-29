@@ -1,0 +1,159 @@
+{
+    "extractors": {}, 
+    "id": "47e6-42bb-8071", 
+    "name": "SINOTEC HD READY LED TV TVs Television Satel", 
+    "page_id": "", 
+    "page_type": "item", 
+    "plugins": {
+        "annotations-plugin": {
+            "extracts": [
+                {
+                    "annotations": {
+                        "#portia-content": "#dummy"
+                    }, 
+                    "container_id": null, 
+                    "id": "4b7d-48d3-82b9", 
+                    "item_container": true, 
+                    "repeated": false, 
+                    "required": [], 
+                    "schema_id": "0aea-4423-8ac5", 
+                    "selector": "main", 
+                    "siblings": 0, 
+                    "tagid": null, 
+                    "text-content": "#portia-content"
+                }, 
+                {
+                    "accept_selectors": [
+                        ".product_info > div:nth-child(4) > .product-details-element-content"
+                    ], 
+                    "container_id": "4b7d-48d3-82b9", 
+                    "data": {
+                        "55d5-4bf1-b3e9": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "7ebb-45b2-b3ad", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "6fb1-4c22-83e8", 
+                    "text-content": "content", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [
+                        ".product_info > div:nth-child(2) > .product-details-element-content"
+                    ], 
+                    "required": [], 
+                    "repeated": false, 
+                    "selection_mode": "auto", 
+                    "selector": "main > div:nth-child(8) > .product_detail_content > .row > div:nth-child(3) > .product-main-info > div > .col-sm-12 > .product-details > div:nth-child(4) > .product-details-element-content", 
+                    "tagid": null, 
+                    "xpath": "//main/div[8]/*[contains(concat(\" \", @class, \" \"), \" product_detail_content \")]/*[contains(concat(\" \", @class, \" \"), \" row \")]/div[3]/*[contains(concat(\" \", @class, \" \"), \" product-main-info \")]/div/*[contains(concat(\" \", @class, \" \"), \" col-sm-12 \")]/*[contains(concat(\" \", @class, \" \"), \" product-details \")]/div[4]/*[contains(concat(\" \", @class, \" \"), \" product-details-element-content \")]"
+                }, 
+                {
+                    "accept_selectors": [
+                        ".product_info > div:nth-child(2) > .product-details-element-content"
+                    ], 
+                    "container_id": "4b7d-48d3-82b9", 
+                    "data": {
+                        "acef-4562-96e4": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "e712-48ec-806f", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "72ac-46de-8d8e", 
+                    "text-content": "content", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "required": [], 
+                    "repeated": false, 
+                    "selection_mode": "auto", 
+                    "selector": "main > div:nth-child(8) > .product_detail_content > .row > div:nth-child(3) > .product-main-info > div > .col-sm-12 > .product-details > div:nth-child(2) > .product-details-element-content", 
+                    "tagid": null, 
+                    "xpath": "//main/div[8]/*[contains(concat(\" \", @class, \" \"), \" product_detail_content \")]/*[contains(concat(\" \", @class, \" \"), \" row \")]/div[3]/*[contains(concat(\" \", @class, \" \"), \" product-main-info \")]/div/*[contains(concat(\" \", @class, \" \"), \" col-sm-12 \")]/*[contains(concat(\" \", @class, \" \"), \" product-details \")]/div[2]/*[contains(concat(\" \", @class, \" \"), \" product-details-element-content \")]"
+                }, 
+                {
+                    "accept_selectors": [
+                        ".pdp_price"
+                    ], 
+                    "container_id": "4b7d-48d3-82b9", 
+                    "data": {
+                        "0a16-45d1-ad63": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "f5d1-4dbf-bd16", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "86bf-400c-9fa0", 
+                    "text-content": "content", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "required": [], 
+                    "repeated": false, 
+                    "selection_mode": "auto", 
+                    "selector": "main > div:nth-child(8) > .product_detail_content > .row > div:nth-child(3) > .product-main-info > div > .col-sm-12 > .product-details > .price > span > .pdp_price", 
+                    "tagid": null, 
+                    "xpath": "//main/div[8]/*[contains(concat(\" \", @class, \" \"), \" product_detail_content \")]/*[contains(concat(\" \", @class, \" \"), \" row \")]/div[3]/*[contains(concat(\" \", @class, \" \"), \" product-main-info \")]/div/*[contains(concat(\" \", @class, \" \"), \" col-sm-12 \")]/*[contains(concat(\" \", @class, \" \"), \" product-details \")]/*[contains(concat(\" \", @class, \" \"), \" price \")]/span/*[contains(concat(\" \", @class, \" \"), \" pdp_price \")]"
+                }, 
+                {
+                    "accept_selectors": [
+                        ".name"
+                    ], 
+                    "container_id": "4b7d-48d3-82b9", 
+                    "data": {
+                        "a1d4-47ec-bf7a": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "8068-466c-999c", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "f115-46ef-805b", 
+                    "text-content": "content", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "required": [], 
+                    "repeated": false, 
+                    "selection_mode": "auto", 
+                    "selector": "main > div:nth-child(8) > .product_detail_content > .product-details > div:nth-child(1) > .name", 
+                    "tagid": null, 
+                    "xpath": "//main/div[8]/*[contains(concat(\" \", @class, \" \"), \" product_detail_content \")]/*[contains(concat(\" \", @class, \" \"), \" product-details \")]/div[1]/*[contains(concat(\" \", @class, \" \"), \" name \")]"
+                }, 
+                {
+                    "accept_selectors": [
+                        ".breadcrumb"
+                    ], 
+                    "container_id": "4b7d-48d3-82b9", 
+                    "data": {
+                        "e8d3-4500-8d4a": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "f405-4e13-aa3b", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "0550-4753-8c97", 
+                    "text-content": "content", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "required": [], 
+                    "repeated": false, 
+                    "selection_mode": "auto", 
+                    "selector": "main > .js-mainHeader > .breadcrumb-section > .breadcrumb", 
+                    "tagid": null, 
+                    "xpath": "//main/*[contains(concat(\" \", @class, \" \"), \" js-mainHeader \")]/*[contains(concat(\" \", @class, \" \"), \" breadcrumb-section \")]/*[contains(concat(\" \", @class, \" \"), \" breadcrumb \")]"
+                }
+            ]
+        }
+    }, 
+    "scrapes": "0aea-4423-8ac5", 
+    "spider": "www.game.co.za", 
+    "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Electronics-&-Entertainment/Television-&-Satellite/TVs/SINOTEC-28%22-HD-READY-LED-TV/p/00776278", 
+    "version": "0.13.2"
+}

@@ -1,0 +1,37 @@
+{
+    "allowed_domains": [], 
+    "exclude_patterns": [], 
+    "follow_patterns": [], 
+    "id": "www.game.co.za", 
+    "js_disable_patterns": [], 
+    "js_enable_patterns": [], 
+    "js_enabled": false, 
+    "links_to_follow": "all", 
+    "respect_nofollow": false, 
+    "start_urls": [
+        {
+            "type": "url", 
+            "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Electronics-&-Entertainment/Television-&-Satellite/DVD-&-Blu-Ray-Players/c/G002003"
+        }, 
+        {
+            "type": "url", 
+            "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Electronics-&-Entertainment/Home-Audio/Home-Theatre-Systems/c/G002011"
+        }, 
+        {
+            "type": "url", 
+            "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Electronics-&-Entertainment/Home-Audio/Soundbars-&-Speakers/c/G002012"
+        }, 
+        {
+            "type": "url", 
+            "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Electronics-&-Entertainment/Television-&-Satellite/Decoders-&-Satellite/c/G002004"
+        }, 
+        {
+            "type": "url", 
+            "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Mobile-Devices-&-Computers/Cellphones-&-Tablets/Tablets/c/G003003"
+        }, 
+        {
+            "type": "url", 
+            "url": "https://www.game.co.za/game-za/en/All-Game-Categories/Electronics-&-Entertainment/Television-&-Satellite/TVs/c/G002001"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "0aea-4423-8ac5": {
+        "fields": {
+            "e712-48ec-806f": {
+                "id": "e712-48ec-806f", 
+                "name": "brand", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "7ebb-45b2-b3ad": {
+                "id": "7ebb-45b2-b3ad", 
+                "name": "model", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "f5d1-4dbf-bd16": {
+                "id": "f5d1-4dbf-bd16", 
+                "name": "price", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "8068-466c-999c": {
+                "id": "8068-466c-999c", 
+                "name": "description", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "f405-4e13-aa3b": {
+                "id": "f405-4e13-aa3b", 
+                "name": "category", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }
+        }, 
+        "name": "SINOTEC HD READY LED TV TVs Television Satel"
+    }
+}

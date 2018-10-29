@@ -1,0 +1,7 @@
+setup.py
+Game_South_Africa.egg-info/PKG-INFO
+Game_South_Africa.egg-info/SOURCES.txt
+Game_South_Africa.egg-info/dependency_links.txt
+Game_South_Africa.egg-info/entry_points.txt
+Game_South_Africa.egg-info/top_level.txt
+Game_South_Africa.egg-info/zip-safe
